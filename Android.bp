@@ -8,7 +8,7 @@ android_app_import {
 	},
 	privileged: true,
 	product_specific: true,
-	overrides: ["Camera2", "GCamGOPrebuilt-V2", "GCamGOPrebuilt-V3", "Snap", "Aperture"],
+	overrides: ["Camera2", "GCamGOPrebuilt-V2", "GCamGOPrebuilt-V3", "Snap", "Aperture", "GoogleCamera"],
 }
 
 android_app_import {
@@ -21,7 +21,7 @@ android_app_import {
 	},
 	privileged: true,
 	product_specific: true,
-	overrides: ["Camera2", "GCamGOPrebuilt", "GCamGOPrebuilt-V3", "Snap", "Aperture"],
+	overrides: ["Camera2", "GCamGOPrebuilt", "GCamGOPrebuilt-V3", "Snap", "Aperture", "GoogleCamera"],
 }
 
 android_app_import {
@@ -34,5 +34,5 @@ android_app_import {
 	},
 	privileged: true,
         product_specific: true,
-        overrides: ["Camera2", "GCamGOPrebuilt", "GCamGOPrebuilt-V2", "Snap", "Aperture"],
+        overrides: ["Camera2", "GCamGOPrebuilt", "GCamGOPrebuilt-V2", "Snap", "Aperture", "GoogleCamera"],
 }

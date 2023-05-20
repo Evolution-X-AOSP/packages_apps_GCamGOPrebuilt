@@ -12,6 +12,12 @@ PRODUCT_PACKAGES += \
 ## Latest GCamGOPrebuilt packages (Stable)
 ```
 PRODUCT_PACKAGES += \
+    GCamGOPrebuilt-V3_8
+```
+
+## Latest GCamGOPrebuilt packages (Experimental)
+```
+PRODUCT_PACKAGES += \
     GCamGOPrebuilt-V4
 ```
 
